@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Consulta Clínica Geral",
+        "local": "Posto de Saúde Exemplo",
+        "horarios": ["08:00", "09:00", "10:00"]
+    },
+    {
+        "id": 2,
+        "nome": "Segunda Via de Documento",
+        "local": "Secretaria Exemplo",
+        "horarios": ["09:30", "11:00", "14:00"]
+    },
+    {
+    "id": 3,
+        "nome": "Atendimento Social",
+        "local": "CRAS Exemplo",
+        "horarios": ["08:30", "10:30", "13:30"]
+    }
+]
